@@ -2,7 +2,7 @@ Final Project: Air Quality Analysis This is the final project of Dicoding in the
 
 For more information, such as the background of this dataset, dataset characteristics, file structure, and more, you can view the Readme file. So, here, I will not explain further.
 
-Streamlit :  http://localhost:8502 Network URL: http://10.0.107.108:8502
+Streamlit : http://localhost:8501/ Network URL: http://192.168.1.11:8501
 
 2. Project work cycle
 > Data Wrangling:
