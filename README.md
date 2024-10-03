@@ -5,19 +5,18 @@ For more information, such as the background of this dataset, dataset characteri
 Streamlit :  http://localhost:8502 Network URL: http://10.0.107.108:8502
 
 2. Project work cycle
-   
-   > Data Wrangling:
-     Gathering data
-     Assessing data
-     Cleaning data
-   > Exploratory Data Analysis:
-     Defined business questions for data exploration
-     Create Data exploration
-   > Data Visualization:
-     Create Data Visualization that answer business questions C. Dashboard:
-     Set up the DataFrame which will be used
-     Make filter components on the dashboard
-     Complete the dashboard with various data visualizations
+> Data Wrangling:
+  Gathering data
+  Assessing data
+  Cleaning data
+> Exploratory Data Analysis:
+  Defined business questions for data exploration
+  Create Data exploration
+> Data Visualization:
+  Create Data Visualization that answer business questions C. Dashboard:
+  Set up the DataFrame which will be used
+  Make filter components on the dashboard
+  Complete the dashboard with various data visualizations
 Note: Numbers 1 to 3 are in the dicoding-collection-exercise and number 4 is in dashboard.
 
 4. Getting Started
