@@ -29,4 +29,4 @@ Lastly, run the code cells.
 Then, for the dashboard download this project.
 Install the Streamlit in your terminal or command prompt using pip install streamlit. Install another libraries like pandas, numpy, scipy, matplotlib, and seaborn if you haven't.
 Please note, don't move the csv file because it acts a data source. keep it in one folder as dashboard.py
-Open your VSCode and run the file by clicking the terminal and write it streamlit run dashboard.py.# Proyek-Analisis-Data
+Open your VSCode and run the file by clicking the terminal and write it streamlit run Tugas1.py.# Proyek-Analisis-Data
