@@ -5,6 +5,7 @@ For more information, such as the background of this dataset, dataset characteri
 Streamlit : http://localhost:8501/ Network URL: http://192.168.1.11:8501 deploy streamlit app : https://nrtpeqzl3eyprxhusbczm8.streamlit.app/
 
 2. Project work cycle
+
 > Data Wrangling:
   Gathering data
   Assessing data
@@ -20,6 +21,7 @@ Streamlit : http://localhost:8501/ Network URL: http://192.168.1.11:8501 deploy 
 Note: Numbers 1 to 3 are in the dicoding-collection-exercise and number 4 is in dashboard.
 
 4. Getting Started
+
 > Download this project.
 > Open your favorite IDE like Jupyter Notebook or Google Colaboratory (but in here I will use Google Colab).
 > Create a New Notebook.Upload and select the file with .ipynb extension.
